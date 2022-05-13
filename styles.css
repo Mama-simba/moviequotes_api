@@ -75,11 +75,22 @@ button:hover {
     body {
     background-position: center center;
 }
-
-
     
 }
 
+@media only screen and (max-width: 562px) {
+    main {
+        width: 80%;
+    }
+
+    body {
+        background-position: center center;
+    }
+    .quote {
+            font-size: 20px;
+
+}
+}
 
 /* FOOTER */
 
