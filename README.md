@@ -9,7 +9,7 @@
 
 ## Overview
 
-![](./images/screenshot.gif)
+![](./images/screenshot.png)
 
 ## The challenge
 
