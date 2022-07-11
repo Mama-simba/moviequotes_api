@@ -9,7 +9,7 @@
 
 ## Overview
 
-![](./images/screenshot.png)
+![](./images/screenshot.gif)
 
 ## The challenge
 
@@ -21,7 +21,7 @@ It doesn't require very advanced JavaScript knowledge, but some DOM manipulation
 - [Heroku](https://www.heroku.com/what)
 
 
-### Links
+### Link
 
 - Solution [here](https://movie-quotes-apigenerator.netlify.app/)
 
