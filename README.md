@@ -37,7 +37,7 @@ It doesn't require very advanced JavaScript knowledge, but some DOM manipulation
 
 ### What I learned
 
-This is a fun project, where I had the opportunity to go beyond an external API. I learnt about Rest APIs, how to build my own API with NodeJS and ExpressJS and how to deploy it on Heroku.
+Initially I built a simple [random quotes generator](https://random-movie-quotes.netlify.app/) with JavaScript, based on an array of objects and static images. Nevertheless, I wanted to go beyond JS and play with new libraries and technologies. I ended up having a lot of fun and learning about Rest APIs, how to build my own API with NodeJS and ExpressJS and how to deploy it on Heroku.
 In order to document this process, I created a [tutorial](https://www.cristina-padilla.com/restapi.html) that explains the previous technologies and how to build the movie quotes generator. I hope it helps. 
 
 
